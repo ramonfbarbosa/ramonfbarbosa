@@ -1,9 +1,9 @@
 <h1 align="center">Hello World, I'm Ramon Barbosa 😎</h1>
 <h2>🤔Who am I?</h2>
 
-<h6> • 👨🏽‍💻 I'm a Full stack web development student at Dev Superior Bootcamp.</h6>
-<h6> • 🤓 I'm currently studying Spring Boot in the backend and React in the frontend.</h6>
-<h6> • 👨🏽‍🎓 I'm degreeing in Information Systems at UNESA(6/8).</h6>
+<h5> • 👨🏽‍💻 I'm a Full stack web development student at Dev Superior Bootcamp.</h5>
+<h5> • 🤓 I'm currently studying Spring Boot in the backend and React in the frontend.</h5>
+<h5> • 👨🏽‍🎓 I'm degreeing in Information Systems at UNESA(6/8).</h5>
 
 <div>
   <a href="https://github.com/ramonfbarbosa">
