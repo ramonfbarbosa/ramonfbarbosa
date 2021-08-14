@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hello World, I'm Ramon Barbosa 😎</h1>
+<h2>🤔Who am I?</h2>
 
-<!--
-**ramonfbarbosa/ramonfbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h6> • 👨🏽‍💻 I'm a Full stack web development student at Dev Superior Bootcamp.</h6>
+<h6> • 🤓 I'm currently studying Spring Boot in the backend and React in the frontend.</h6>
+<h6> • 👨🏽‍🎓 I'm degreeing in Information Systems at UNESA(6/8).</h6>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/ramonfbarbosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonfbarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonfbarbosa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <h2>H A R D 💪🏽 S K I L L S</H2>
+    <img align="center" alt="Ramon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Ramon-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Ramon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Ramon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="right" alt="Ramon-gif" src="https://pa1.narvii.com/6335/64478afd1e93c8b94effc49c9d25f09c4e60b009_128.gif">
+</div>
+ 
+<div> 
+  <h2>C O N T A C T 📱 M E</h2>
+  <a href = "mailto:ramonmfb777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ramonfbarbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
