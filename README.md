@@ -2,8 +2,8 @@
 <h2>About 🙆🏽‍♂️  me</h2> 
 
 <h4> • 👨🏽‍💻 I'm a Full Stack Web Development student at Dev Superior.</h4>
-<h4> • 🤓 I'm currently studying Spring Boot in the back-end and React in the front-end.</h4>
-<h4> • 👨🏽‍🎓 I'm degreeing in Information Systems at UNESA(6/8).</h4>
+<h4> • 🤓 Currently studying Spring Boot in the back-end and React in the front-end.</h4>
+<h4> • 👨🏽‍🎓 Bachelor's at Information Systems at UNESA(6/8).</h4>
 
 <div>
   <a href="https://github.com/ramonfbarbosa">
