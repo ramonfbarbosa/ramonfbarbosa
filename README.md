@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! I'm Ramon Barbosa!</h1>
-<h2>About me: </h2> 
+<h2>About me </h2> 
 
 <h4> • I'm a Full Stack Web Development student at Dev Superior( Spring Boot / React )</h4>
 <h4> • Currently working at All Nations(.NET)</h4>
 <h4> • Bachelor's in Information Systems at UNESA(6/8)</h4>
 
-<h2>GitHub Analytics: </h2>
+<h2>GitHub Analytics </h2>
 <div>
   <a href="https://github.com/ramonfbarbosa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramonfbarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
