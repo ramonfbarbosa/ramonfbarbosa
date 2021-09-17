@@ -1,17 +1,17 @@
 <h1 align="center">Hello World! I'm Ramon Barbosa!</h1>
 <h2>About me: </h2> 
 
-<h4> • I'm a Full Stack Web Development student at Dev Superior.</h4>
-<h4> • Currently studying Spring Boot in the back-end and React in the front-end.</h4>
+<h4> • I'm a Full Stack Web Development student at Dev Superior(Spring Boot / React )</h4>
 <h4> • Currently working at All Nations(.NET)</h4>
-<h4> • Bachelor's in Information Systems at UNESA(6/8).</h4>
+<h4> • Bachelor's in Information Systems at UNESA(6/8)</h4>
 
+<h2>GitHub Analytics: </h2>
 <div>
   <a href="https://github.com/ramonfbarbosa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramonfbarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonfbarbosa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
 <div style="display: inline_block"><br>
   <h2>H A R D 💪🏽 S K I L L S</H2>
     <img align="center" alt="Ramon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
