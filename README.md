@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! I'm Ramon Barbosa. 😎</h1>
-<h2>About 🙆🏽‍♂️  me</h2> 
+<h1 align="center">Hello World! I'm Ramon Barbosa.</h1>
+<h2>About me: </h2> 
 
 <h4> • 👨🏽‍💻 I'm a Full Stack Web Development student at Dev Superior.</h4>
 <h4> • 🤓 Currently studying Spring Boot in the back-end and React in the front-end.</h4>
