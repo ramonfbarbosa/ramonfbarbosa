@@ -3,7 +3,7 @@
 
 <h4> • I'm a Full Stack Web Development student at Dev Superior( Spring Boot / React )</h4>
 <h4> • Currently working at All Nations(.NET)</h4>
-<h4> • Bachelor's in Information Systems at UNESA(6/8)</h4>
+<h4> • Bachelor's in Information Systems at UNESA</h4>
 
 <h2>GitHub Analytics </h2>
 <div>
