@@ -2,7 +2,7 @@
 <h2>About me </h2> 
 
 <h4> • I'm a Full Stack Web Development student at Dev Superior( Spring Boot / React )</h4>
-<h4> • Currently working at All Nations(.NET)</h4>
+<h4> • Currently working at Transfero Swiss Ag as Blockchain Developer</h4>
 <h4> • Bachelor's in Information Systems at UNESA</h4>
 
 <h2>GitHub Analytics </h2>
@@ -14,13 +14,10 @@
 
 <div style="display: inline_block"><br>
   <h2>H A R D 💪🏽 S K I L L S</H2>
-    <img align="center" alt="Ramon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Ramon-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="Ramon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Ramon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Ramon-gif" src="https://pa1.narvii.com/6335/64478afd1e93c8b94effc49c9d25f09c4e60b009_128.gif">
+    <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  
 <div> 
