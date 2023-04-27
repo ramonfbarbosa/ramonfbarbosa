@@ -1,4 +1,4 @@
-<h2>Ramon Barbosa</h2>
+<h1>Ramon Barbosa</h1>
 <h3>Software Engineer</h3> 
 
 <h5> • Currently working at Transfero Swiss Ag</h4>
