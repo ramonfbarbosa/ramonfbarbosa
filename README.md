@@ -1,7 +1,7 @@
-<h1>Ramon Barbosa</h1>
+<h2>Ramon Barbosa</h2>
 <h3>Software Engineer</h3> 
 
-<h5> • =Currently working at Transfero Swiss Ag</h4>
+<h5> • Currently working at Transfero Swiss Ag</h4>
 <h5> • Bachelor's in Information Systems at UNESA</h4>
 
 <h3>GitHub Analytics </h2>
