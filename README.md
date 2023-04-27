@@ -12,10 +12,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>H A R D 💪🏽 S K I L L S</H2>
-    <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg">
+  <h2>S K I L L S</H2>
+    <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  
