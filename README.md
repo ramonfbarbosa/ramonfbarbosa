@@ -16,7 +16,6 @@
   <h2>H A R D 💪🏽 S K I L L S</H2>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
     <img align="center" height="30" width="40" src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg">
-    <img align="center" height="30" width="40" src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg">
 </div>
  
 <div> 
