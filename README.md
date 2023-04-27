@@ -12,7 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>H A R D 💪🏽 S K I L L S</H2>
+  <h2>S K I L L S</H2>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
