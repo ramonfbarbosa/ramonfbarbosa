@@ -1,5 +1,4 @@
 <h1>Ramon Barbosa</h1>
-<h3>Software Engineer</h3> 
 
 <h3>GitHub Analytics </h2>
 <div>
@@ -13,6 +12,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
+  <img align="center" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-svg-vector.svg">
+  
 </div>
  
 <div> 
